@@ -10,9 +10,6 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
-    //Sultan new comment
-    //fsdfsdfsdf
     //MARK: Properties
     @IBOutlet weak var display: UILabel!
     private var isInTheMiddleOfTyping = false
